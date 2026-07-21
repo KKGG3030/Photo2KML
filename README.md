@@ -3,7 +3,7 @@
 
 
 
-![Photo2KML Preview](\example.PNG)
+![Photo2KML Preview](/example.PNG)
 
 
 
