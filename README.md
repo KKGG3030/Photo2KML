@@ -27,6 +27,7 @@ Photo2KML 是一个离线照片 GPS 轨迹生成工具。
 
 例如：
 旅行照片
+
 │
 ├── IMG001.jpg
 ├── IMG002.jpg
