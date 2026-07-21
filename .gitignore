@@ -1,0 +1,18 @@
+# Python缓存
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 日志
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# 输出文件
+Photo2KML_Output/
