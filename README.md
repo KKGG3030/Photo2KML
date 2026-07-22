@@ -1,3 +1,8 @@
+                                          Reconnect your memories, one photo at a time.
+                                                  让每一张照片，重新连接你的回忆。
+
+
+
 # Photo2KML v2.1 使用说明
 # Photo2KML v2.1 User Guide
 
